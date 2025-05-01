@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harsh Bothara</h1>
-<h3 align="center">B.Tech CSE(AI) | Full-Stack & AI Developer | Passionate Builder 🚀</h3>
+<h3 align="center">ML Developer | Full-Stack Developer | Passionate Builder 🚀</h3>
 
 ---
 
 ### 🧠 About Me
-
-🎓 B.Tech in CSE (AI) @ VIIT Pune  
+  
 🛠️ I love building real-world tech: AI, Flutter apps, full-stack platforms, and automation tools  
 📈 Focused on delivering impactful solutions through clean code, creative UI, and scalable systems  
 🌱 Always exploring: ML, Edge AI, Cloud, and Developer Tools  
@@ -16,25 +15,25 @@
 
 #### 🧾 Shop Wallet Manager  
 > Daily expense tracking app for shopkeepers.  
-✅ Flutter (Android, Web, Desktop) | Firebase Auth | Firestore DB  
-📦 Multi-platform UI | Serial-based tracking | Role-based dashboards  
-🔗 [Repo Link](https://github.com/HarshBothara/shop-wallet-manager) *(Replace with actual link)*
+✅ Web Application | Firebase Auth | Firestore DB  
+📦 Multi-platform UI | Serial-based tracking 
+🔗 (https://shop-wallet-manager.vercel.app/)
 
 ---
 
-#### 🩺 Medical Report Analyzer  
-> Understand medical reports in simple language + insights from Google Fit.  
-✅ Django + Flutter | ML-based report interpretation | Multi-language support  
-🤖 Personalized fitness & diet plans using AI  
-🔗 [Repo Link](https://github.com/HarshBothara/medical-report-analyzer) *(Replace with actual link)*
+#### 🩺 Voice Assisted Medicine Reminder  
+> Smart prescription scanner + AI-powered alerts for timely medication
+✅ Flask + PaddleOCR + PyTorch | OCR-based medicine extraction | APScheduler reminders
+🔊 Designed for elderly care | Future support for Alexa, Google Home & WhatsApp alerts
+🔗 (https://github.com/HarshBothara24/MediReminder)
 
 ---
 
 #### 🐄 Dairy Management System  
 > QR-based member sales tracking for dairy businesses.  
-✅ Flutter | Firebase Auth | QR Scanner | Admin Panel  
+✅ Flutter | Firebase Auth | QR Scanner | Admin Panel | Member Portal
 📦 Auto-member creation | Purchase history tracking  
-🔗 [Repo Link](https://github.com/HarshBothara/dairy-management-system) *(Replace with actual link)*
+🔗 Apk Link - (https://github.com/HarshBothara24/DairyManagementSystem)
 
 ---
 
