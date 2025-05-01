@@ -61,16 +61,15 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshBothara24&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshBothara24&theme=tokyonight" width="48%">
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshbothara)  
-[![Gmail](https://img.shields.io/badge/-harshbothara%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshbothara@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshbothara24/)  
+[![Gmail](https://img.shields.io/badge/-harshbothara24%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshbothara24@gmail.com)  
+[![Contact](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=contact&logoColor=white)](https://your-portfolio-link.com)
 
 ---
 
