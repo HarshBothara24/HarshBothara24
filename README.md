@@ -24,7 +24,7 @@
 #### 🩺 Voice Assisted Medicine Reminder  
 > Smart prescription scanner + AI-powered alerts for timely medication  
 ✅ Flask + PaddleOCR + PyTorch | OCR-based medicine extraction | APScheduler reminders  
-🔊 Designed for elderly care | Future support for Alexa, Google Home & WhatsApp alerts
+🔊 Designed for elderly care | Future support for Alexa, Google Home & WhatsApp alerts  
 🔗 (https://github.com/HarshBothara24/MediReminder)
 
 ---
