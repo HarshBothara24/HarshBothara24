@@ -42,7 +42,7 @@
 ✅ React + Node.js + MongoDB | AI-Powered planner | Gamified dashboard  
 🧠 Dynamic rescheduling | Progress tracking     
 🔗 [Repo Link](https://github.com/HarshBothara24/AiPowered-StudyPlanner)  
-🔗 (https://ai-powered-study-planner-oe4f.vercel.app/)
+🔗 [Link](https://ai-powered-study-planner-oe4f.vercel.app/)
 
 ---
 
