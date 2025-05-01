@@ -48,12 +48,12 @@
 
 ### 💻 Tech Stack
 
-**Languages**: Python, Dart, JavaScript  
-**App Dev**: Flutter, Firebase, FlutterFlow  
+**Languages**: Python, Dart, JavaScript, Java  
+**App Dev**: Android Development Java-based,Flutter, React-native, FlutterFlow  
 **Web**: React, Node.js, Express.js, Django  
 **DB**: MySQL, MongoDB, Firestore  
 **ML/DL**: PyTorch, Scikit-learn, OpenCV  
-**Tools**: GitHub, Figma, Postman, VS Code
+**Tools**: GitHub, Figma, Postman
 
 ---
 
@@ -69,7 +69,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshbothara24/)  
 [![Gmail](https://img.shields.io/badge/-harshbothara24%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshbothara24@gmail.com)  
-[![Contact](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=contact&logoColor=white)](https://your-portfolio-link.com)
+📞 **Phone:** +91-7276027029  
 
 ---
 
