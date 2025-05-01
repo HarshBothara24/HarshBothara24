@@ -41,7 +41,7 @@
 > Smart scheduling tool for students and professionals.  
 ✅ React + Node.js + MongoDB | AI-Powered planner | Gamified dashboard  
 🧠 Dynamic rescheduling | Progress tracking     
-🔗 [Repo Link](https://github.com/HarshBothara24/AiPowered-StudyPlanner)
+🔗 [Repo Link](https://github.com/HarshBothara24/AiPowered-StudyPlanner)  
 🔗 (https://ai-powered-study-planner-oe4f.vercel.app/)
 
 ---
@@ -49,7 +49,7 @@
 #### 🛡️ InsuraSphere  
 > Insurance claim management platform powered by AI.  
 ✅ Next.js | Firebase | OCR + ML-based claim analyzer  
-📈 Role-based dashboards | Fraud detection | Policy document parser  
+📈 Role-based dashboards | Fraud detection | Policy document parser    
 🔗 [Repo Link](https://github.com/HarshBothara24/InsuraSphere)
 
 
