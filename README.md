@@ -17,7 +17,7 @@
 > Daily expense tracking app for shopkeepers.  
 ✅ Web Application | Firebase Auth | Firestore DB  
 📦 Multi-platform UI | Serial-based tracking 
-🔗 (https://shop-wallet-manager.vercel.app/)
+🔗 [Link](https://shop-wallet-manager.vercel.app/)
 
 ---
 
@@ -25,7 +25,7 @@
 > Smart prescription scanner + AI-powered alerts for timely medication  
 ✅ Flask + PaddleOCR + PyTorch | OCR-based medicine extraction | APScheduler reminders  
 🔊 Designed for elderly care | Future support for Alexa, Google Home & WhatsApp alerts  
-🔗 (https://github.com/HarshBothara24/MediReminder)
+🔗 [Repo Link](https://github.com/HarshBothara24/MediReminder)
 
 ---
 
@@ -33,7 +33,25 @@
 > QR-based member sales tracking for dairy businesses.  
 ✅ Flutter | Firebase Auth | QR Scanner | Admin Panel | Member Portal
 📦 Auto-member creation | Purchase history tracking  
-🔗 Apk Link - (https://github.com/HarshBothara24/DairyManagementSystem)
+🔗 Apk Link - [Repo Link](https://github.com/HarshBothara24/DairyManagementSystem)
+
+---
+
+#### 📅 AI-Powered Study Planner  
+> Smart scheduling tool for students and professionals.  
+✅ React + Node.js + MongoDB | AI-Powered planner | Gamified dashboard  
+🧠 Dynamic rescheduling | Progress tracking     
+🔗 [Repo Link](https://github.com/HarshBothara24/AiPowered-StudyPlanner)
+🔗 (https://ai-powered-study-planner-oe4f.vercel.app/)
+
+---
+
+#### 🛡️ InsuraSphere  
+> Insurance claim management platform powered by AI.  
+✅ Next.js | Firebase | OCR + ML-based claim analyzer  
+📈 Role-based dashboards | Fraud detection | Policy document parser  
+🔗 [Repo Link](https://github.com/HarshBothara24/InsuraSphere)
+
 
 ---
 
