@@ -69,7 +69,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshbothara24/)  
 [![Gmail](https://img.shields.io/badge/-harshbothara24%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshbothara24@gmail.com)  
-📞 **Phone:** +91-7276027029  
+📞 **Phone:** +917276027029  
 
 ---
 
