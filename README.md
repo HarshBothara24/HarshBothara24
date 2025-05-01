@@ -16,7 +16,7 @@
 #### 🧾 Shop Wallet Manager  
 > Daily expense tracking app for shopkeepers.  
 ✅ Web Application | Firebase Auth | Firestore DB  
-📦 Multi-platform UI | Serial-based tracking 
+📦 Multi-platform UI | Serial-based tracking   
 🔗 [Link](https://shop-wallet-manager.vercel.app/)
 
 ---
@@ -24,7 +24,7 @@
 #### 🩺 Voice Assisted Medicine Reminder  
 > Smart prescription scanner + AI-powered alerts for timely medication  
 ✅ Flask + PaddleOCR + PyTorch | OCR-based medicine extraction | APScheduler reminders  
-🔊 Designed for elderly care | Future support for Alexa, Google Home & WhatsApp alerts  
+🔊 Designed for elderly care | Future support for Alexa, Google Home & WhatsApp alerts    
 🔗 [Repo Link](https://github.com/HarshBothara24/MediReminder)
 
 ---
