@@ -1,0 +1,30 @@
+name: ⏰ Update Time in README
+
+on:
+  schedule:
+    - cron: '*/1 * * * *'  # every minute
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Get IST Time & Update README
+        run: |
+          sudo apt-get install -y tzdata
+          export TZ=Asia/Kolkata
+          TIME=$(date +"%H:%M IST")
+          sed -i "s|🕒 <strong>{TIME}</strong>|🕒 <strong>${TIME}</strong>|g" README.md
+          
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -am "🕒 Update time to ${TIME}"
+          git push
