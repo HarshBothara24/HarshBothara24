@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Bothara</h1>
 <h3 align="center">ML Developer | Full-Stack Developer | Passionate Builder 🚀</h3>
 
+<p align="center">
+  📍 <strong>Pune, Maharashtra, India</strong> &nbsp; | &nbsp; 🕒 <strong>{TIME}</strong>
+</p>
 ---
 
 ### 🧠 About Me
