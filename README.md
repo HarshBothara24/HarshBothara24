@@ -56,15 +56,6 @@
 
 ---
 
-### 🏆 Certifications
-
-- 🧠 NVIDIA – Fundamentals of Deep Learning  
-- 👨‍💻 Google – ML Crash Course  
-- 📊 IBM – Data Science Foundations  
-- 💡 Meta – Front-End Development (React)
-
----
-
 ### 💻 Tech Stack
 
 **Languages**: Python, Dart, JavaScript, Java  
